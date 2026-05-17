@@ -11,8 +11,10 @@ export default defineConfig({
                 'resources/js/app.js',
                 'resources/js/admin.jsx',
             ],
-            
             refresh: true,
         }),
     ],
+    build: {
+        manifest: true,
+    },
 });
