@@ -1,0 +1,26 @@
+{
+  "__commonjsHelpers-725317a4.js": {
+    "file": "assets/_commonjsHelpers-725317a4.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-cc1fe769.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/admin.jsx": {
+    "file": "assets/admin-3ff6bfca.js",
+    "imports": [
+      "__commonjsHelpers-725317a4.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/admin.jsx"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-84a784bd.js",
+    "imports": [
+      "__commonjsHelpers-725317a4.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
